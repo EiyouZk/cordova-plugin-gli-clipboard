@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-gli-clipboard",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Clipboard Extension\r =============",
   "main": "index.js",
   "scripts": {

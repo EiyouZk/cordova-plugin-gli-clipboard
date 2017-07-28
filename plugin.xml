@@ -41,7 +41,7 @@
     <platform name="ios">
         <config-file target="config.xml" parent="/*">
              <feature name="Clipboard">
-                 <param name="ios-package" value="Clipboard" />
+                 <param name="ios-package" value="CDVClipboard" />
              </feature>
          </config-file>
 
