@@ -14,7 +14,7 @@
         <engine name="cordova" version=">=3.0" />
     </engines>
 
-    <js-module src="www/clipboard.js">
+    <js-module src="www/clipboard.js" name="Clipboard">
         <clobbers target="cordova.plugins.clipboard" />
     </js-module>
 
