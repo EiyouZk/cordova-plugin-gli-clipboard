@@ -14,8 +14,8 @@
         <engine name="cordova" version=">=3.0" />
     </engines>
 
-    <js-module src="www/client.js">
-        <clobbers target="community.clipboard" />
+    <js-module src="www/clipboard.js">
+        <clobbers target="cordova.plugins.clipboard" />
     </js-module>
 
     <platform name="blackberry10">
